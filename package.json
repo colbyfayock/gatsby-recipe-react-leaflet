@@ -14,9 +14,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.20.12",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "@emotion/styled": "^10.0.27",
+    "gatsby": "^2.20.23",
+    "gatsby-plugin-react-leaflet": "^2.0.12",
+    "leaflet": "^1.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-leaflet": "^2.6.3"
   },
   "devDependencies": {
     "prettier": "2.0.4"
