@@ -17,7 +17,7 @@ gatsby new my-gatsby-react-leaflet-app https://github.com/gatsbyjs/gatsby-starte
 ```
 cd my-gatsby-react-leaflet-app
 ```
-* Upgrade to the latest versoin of Gatsby
+* Upgrade to the latest version of Gatsby
 ```
 npm upgrade --latest
 yarn upgrade --latest
