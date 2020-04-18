@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "name": "gatsby-recipe-react-leaflet",
+  "description": "A Gatsby Recipe for React Leaflet",
+  "author": "Colby Fayock <hello@colbyfayock.com>",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,6 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@emotion/styled": "^10.0.27",
     "gatsby": "^2.20.23",
     "gatsby-plugin-react-leaflet": "^2.0.12",
     "leaflet": "^1.6.0",
@@ -27,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/colbyfayock/gatsby-recipe-react-leaflet"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/colbyfayock/gatsby-recipe-react-leaflet/issues"
   }
 }
