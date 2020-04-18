@@ -2,12 +2,12 @@
 
 [React Leaflet](https://react-leaflet.js.org/) is a component library bringing React Components to [Leaflet](https://leafletjs.com/).
 
-## Install
+## Add to an Existing Gatsby Project
 ```
 gatsby recipes https://raw.githubusercontent.com/colbyfayock/gatsby-recipe-react-leaflet/master/react-leaflet.mdx
 ```
 
-## Starting from scratch
+## Starting from Scratch
 
 * Create a new Gatsby site and navigate
 ```
