@@ -1,4 +1,4 @@
-# Gatsby Recipe React Leaflet
+# 🍃 Gatsby Recipe React Leaflet
 
 [React Leaflet](https://react-leaflet.js.org/) is a component library bringing React Components to [Leaflet](https://leafletjs.com/).
 
