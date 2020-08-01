@@ -32,3 +32,6 @@ gatsby develop
 npm run develop
 yarn develop
 ```
+
+## 🗺 Resources to Learn About Mapping
+* [Mapping with React Leaflet](https://egghead.io/playlists/mapping-with-react-leaflet-e0e0?af=atzgap)
