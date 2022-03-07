@@ -1,5 +1,7 @@
 # 🍃 Gatsby Recipe React Leaflet
 
+> [Per Gatsby](https://github.com/gatsbyjs/gatsby/blob/5f623451fefb55d6ace04ba6c9a221740a538bda/deprecated-packages/gatsby-recipes/README.md): Gatsby Recipes has been removed from gatsby with v4.5.0. If you want to use it you can install gatsby-cli@4.4.0 to use it.
+
 [React Leaflet](https://react-leaflet.js.org/) is a component library bringing React Components to [Leaflet](https://leafletjs.com/).
 
 ## Add to an Existing Gatsby Project
